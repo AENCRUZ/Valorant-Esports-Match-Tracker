@@ -129,6 +129,6 @@ valorant-esports-tracker/
 
 <div align="center">
 
-Made with 🩷 by [Angelyn](https://github.com/AENCRUZ)
+Made with 🩷 by [AEN](https://github.com/AENCRUZ)
 
 </div>
